@@ -1,0 +1,8 @@
+{
+  "Author": "ventechxiv",
+  "Name": "Hair Shuffle",
+  "Punchline": "Random hair colors throughout the day, powered by Glamourer.",
+  "Description": "Changes your character's hair color to a random color at an interval you choose. Requires Glamourer.\n\nCommands:\n/hairshuffle - open settings\n/hairshuffle now - change hair color now\n/hairshuffle on|off - turn the timer on or off",
+  "ApplicableVersion": "any",
+  "Tags": [ "glamourer", "hair", "customization", "random" ]
+}
